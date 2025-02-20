@@ -24,7 +24,7 @@ A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv,
 
 ---
 
-### 4. Basic Flow
+### 4. Basic Flow (CrewAI)
 **Description**:   
 **Link**: [View Project](https://github.com/EngineerAbdulQadir/UV/tree/main/Gauge/04%20-%20Flow)
 
@@ -33,5 +33,11 @@ A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv,
 ### 5. CrewAI Flow
 **Description**:   
 **Link**: [View Project](https://github.com/EngineerAbdulQadir/UV/tree/main/Gauge/05%20-%20CrewAI%20Flow/grinding)
+
+---
+
+### 6. Basic Flow (LangGraph)
+**Description**:   
+**Link**: [View Project](https://github.com/EngineerAbdulQadir/UV/tree/main/Gauge/06%20-%20Basic%20Flow%20(LangGraph)/langgraph-flow)
 
 ---
