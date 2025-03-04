@@ -41,3 +41,15 @@ A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv,
 **Link**: [View Project](https://github.com/EngineerAbdulQadir/UV/tree/main/Gauge/06%20-%20Basic%20Flow%20(LangGraph)/langgraph-flow)
 
 ---
+
+### 7. CrewAI Flow (Advanced)
+**Description**:   
+**Link**: [View Project]()
+
+---
+
+### 8. Dev Crew (First Agent Using CrewAI)
+**Description**:   
+**Link**: [View Project]()
+
+---
