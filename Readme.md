@@ -50,6 +50,6 @@ A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv,
 
 ### 8. Dev Crew (First Agent Using CrewAI)
 **Description**:   
-**Link**: [View Project]()
+**Link**: [View Project](https://github.com/EngineerAbdulQadir/UV/tree/main/Gauge/08%20-%20Dev%20Crew%20(First%20Agent%20Using%20CrewAI))
 
 ---
